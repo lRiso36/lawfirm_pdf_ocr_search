@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# PDFs / OCR outputs (protect confidentiality)
+*.pdf
+*.txt
+*.log
+output/
+data/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
